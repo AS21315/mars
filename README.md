@@ -1,2 +1,1 @@
-# mars
-jsut a  simple learning repo
+# MARS project
